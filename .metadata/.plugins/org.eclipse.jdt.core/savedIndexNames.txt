@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\javafsd\java-fsd\.metadata\.plugins\org.eclipse.jdt.core
+2755713330.index
+1425701431.index
+1865797976.index
